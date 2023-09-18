@@ -1,16 +1,18 @@
-### Hi there 👋
+목표: <br>
+- 고급 부트캠프 합격하기<br>
+(필요한 역량, 방향성)<br>
+  - 객체지향 설계 대한 이해도(왜 패키지로 나누고 인터페이스를 꼭 쓰는가)<br>
+  - 코드설계 계획짜기<br>
+  - 단위기능 구현마다 버전관리<br>
+  - Test Code 작성(전반적인 단위 유닛 테스트)<br>
+  - 리팩토링 <br>
 
-<!--
-**PlagueRabbit/PlagueRabbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 대용량/동시성/보안 관련 주제로 고민+해결해볼만한 내용 있는 백엔드 프로젝트 만들어서 포트폴리오로 쓰기<br>
+    - 신박한 아이디어에 집착하지 않기(넌 기획자가 아닌 개발자임)
+    - 잡다하고 다양한 기능 구현X, 한가지 기능을 깊이있게 구현하는 포폴을 목적으로
+- 알고리즘 유기하지 말고 꾸준히 공부하기(언어는 C++사용, DP잘해지기 목표)
+- 공부 할 것<br>
+  - Spring Boot
+  - JPA, SQL
+  - CS(os 중 프로세스 관리, 메모리 관리 중요)
+  
